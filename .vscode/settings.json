@@ -1,0 +1,42 @@
+{
+    "cSpell.words": [
+        "-webkit-print-color-adjust",
+        "eballot",
+        "enter",
+        "firstname",
+        "loggedin",
+        "logut",
+        "multiselect",
+        "none",
+        "passsword",
+        "piechart",
+        "positionadd",
+        "positiondelete",
+        "positioneadd",
+        "positionedit",
+        "previewarea",
+        "rnum",
+        "semibold",
+        "servername",
+        "signup",
+        "sqldata",
+        "sqlquery",
+        "votersdelete"
+    ],
+    "livePreview.defaultPreviewPath": "/index.html",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "eballot",
+            "username": "root",
+            "name": "eballot",
+            "password": ""
+        }
+    ]
+}
